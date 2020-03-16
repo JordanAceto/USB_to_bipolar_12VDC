@@ -580,7 +580,7 @@ U 1 1 5CECA1B2
 P 4300 3700
 F 0 "JP4" V 4254 3775 50  0000 L CNN
 F 1 "short for +-15V" V 4345 3775 50  0000 L CNN
-F 2 "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm" H 4300 3700 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 4300 3700 50  0001 C CNN
 F 3 "~" H 4300 3700 50  0001 C CNN
 	1    4300 3700
 	0    1    1    0   
